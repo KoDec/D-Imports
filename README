@@ -1,3 +1,4 @@
-NOTE! All headers are converted using GDC 2.057 as the reference compiler.
+NOTE! All headers are converted using GDC 2.057 as the reference compiler. 
+All headers are 1:1 translations with no class wrappers.
 
 1/22/2012 - Added AL Imports
